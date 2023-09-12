@@ -1,9 +1,9 @@
 # AppSec SoCal 2023 - Resources
 Hey 👋 thanks for stopping by to grab some resources from my talk "Security, Velocity, Happiness: Finding Balance in Developer-First Security".  I hope it was a helpful conversation!
 
-You can find a downloadable copy of the slides as PDF here.
+You can find a downloadable copy of the slides as PDF [here](https://github.com/leftrightleft/appsec-socal/blob/main/AppSec%20SoCal%20-%20Security%2C%20Velocity%2C%20Happiness....pdf).
 
-All the resources I shared and referenced in my talk are available here:
+All the resources I referenced are available here:
 * [McKinsey - Why your IT organization should prioritize developer experience](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/why-your-it-organization-should-prioritize-developer-experience)
 * [RedMonk - Developer Experience is Security](https://redmonk.com/rstephens/2022/02/17/devex-is-security/)
 * [StackOverflow - What makes developers happy at work](https://stackoverflow.blog/2022/03/17/new-data-what-makes-developers-happy-at-work/)
