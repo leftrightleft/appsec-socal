@@ -1,4 +1,4 @@
-# AppSec SoCal 2023 - Resources
+# Security, Velocity, Happiness: Finding Balance in Developer-First Security - Resources
 Hey 👋 thanks for stopping by to grab some resources from my talk "Security, Velocity, Happiness: Finding Balance in Developer-First Security".  I hope it was a helpful conversation!
 
 You can find a downloadable copy of the slides as PDF [here](https://github.com/leftrightleft/appsec-socal/blob/main/AppSec%20SoCal%20-%20Security%2C%20Velocity%2C%20Happiness....pdf).
